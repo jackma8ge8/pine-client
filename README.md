@@ -1,6 +1,6 @@
 # pine-client
 ```ts
-import Pine from 'pine-client'
+import Pine from '@jackma8ge8/pine-client'
 import { Middleware } from 'pine-client/lib/common'
 
 (async () => {
