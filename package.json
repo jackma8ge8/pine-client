@@ -1,5 +1,5 @@
 {
-    "name": @jackma8ge8/pine-client",
+    "name": "@jackma8ge8/pine-client",
     "version": "1.0.9",
     "description": "pine client",
     "main": "lib/node.js",
@@ -13,7 +13,7 @@
         "url": "git+https://github.com/jackma8ge8/pine-client.git"
     },
     "keywords": [
-        @jackma8ge8/pine-client"
+        "@jackma8ge8/pine-client"
     ],
     "author": "yaohao",
     "license": "ISC",

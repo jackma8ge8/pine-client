@@ -1,7 +1,7 @@
 # pine-client
 ```ts
-import Pine from @jackma8ge8/pine-client'
-import { Middleware } from @jackma8ge8/pine-client/lib/common'
+import Pine from '@jackma8ge8/pine-client'
+import { Middleware } from '@jackma8ge8/pine-client/lib/common'
 
 (async () => {
 
